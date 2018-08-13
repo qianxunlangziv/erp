@@ -1,0 +1,13 @@
+diff --git a/hello.java b/hello.java
+index ff4513b..d3971e3 100644
+--- a/hello.java
++++ b/hello.java
+@@ -4,6 +4,8 @@ public class hello{
+ 		System.out.println("hello");
+ 		System.out.println("1");
+ 		System.out.println("2");
++		System.out.println("hello");
++		System.out.println("hello");
+ 		Admin admin=new Admin();
+ 		System.out.println("1111111111111");
+ 		
