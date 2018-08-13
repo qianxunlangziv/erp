@@ -1,4 +1,5 @@
+package cn.mldn.vo;
 public class Admin{
 	private Integer aid;
-	private Integer title;
+	private String password;
 }
